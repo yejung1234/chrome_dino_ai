@@ -16,3 +16,6 @@ pyxhook (for logging jump input)
 3. Run preprocess.py to simplify images.
 4. Run trainer.py to load model(if available), train it and save model back.
 5. Run program.py to test the model to game. press \` to start and \` again to stop.
+
+## Sample
+![](play.gif)
